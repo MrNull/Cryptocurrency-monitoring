@@ -1,4 +1,4 @@
-requests==2.20.0
+requests==2.31.0
 beautifulsoup4==4.9.1
 sqlite3-api==1.0.5
 pyTelegramBotAPI==3.7.1
